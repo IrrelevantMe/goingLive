@@ -1,0 +1,43 @@
+{
+  "propertyId": 10001,
+  "name": "Fay Al Reeman II",
+  "licenseNumber": "202202221143",
+  "projectNumber": "PRJ-2023-01-Something",
+  "content": {
+    "textContent": {
+      "label": "Fay Al Reeman II",
+      "description": "Fay Al Reeman II is an exclusive beachfront community comprising 1 to 4BR luxury apartments featuring a pristine 1.4 km white sandy beach.",
+      "about":"<h1 class='display-5 fw-bold lh-1 mb-3'><p class='lead'>A loft-type apartment features an open living/dining/kitchen space and a bathroom on the lower floor and a bedroom with a bathroom and a balcony on the upper floor. An average area amounts to 141 m2</p>.<ul><li>1-bedroom apartment of 162 m2 total area costs AED 2,600,000.</li><li>2-bedroom apartment of 170 m2 area priced for AED 4,000,000.</li><li>3-bedroom apartment of 287 m2 area evaluates AED 5,900,000.</li><li>4-bedroom apartment of 533 m2 area evaluates AED 9,600,000.</li></ul><p>The apartments are put in place unfurnished, with built-in wardrobes.</p><p>Mamsha AL Saadiyat properties ensure:</p><ul><li>covered parking;</li><li>concierge service and security;</li><li>swimming-pool and gym;</li><li>barbecue areas;</li><li>white-sand beach.</li></ul><p>The development plan of the project implies not only a great variety of options for retail, dining and entertainment, bit also landscaped spaces for strolling and wandering along.<p>"
+    },
+    "galleryContent": {
+      "carouselImages": ["/assets/images/10001/exterior-1.webp", "/assets/images/10001/exterior-2.webp", "/assets/images/10001/exterior-3.webp", "/assets/images/10001/interior-1.webp", "/assets/images/10001/about.webp"],
+      "aboutImage": "/assets/images/10001/about.webp"
+    },
+    "mapContent": {
+      "latitude": 123.456,
+      "longitude": -45.678,
+      "markerLabel": "Sample Location"
+    }
+  },
+  "pricing": {
+    "startingPrice": "$250,000",
+    "pricePerSqFt": "$200",
+    "startingAreaFrom": "800 sq ft",
+    "paymentPlan": {
+      "planName": "Standard Plan",
+      "installments": [
+        {
+          "name": "Down Payment",
+          "amount": "$50,000",
+          "dueDate": "2023-09-01"
+        },
+        {
+          "name": "1st Installment",
+          "amount": "$50,000",
+          "dueDate": "2023-10-01"
+        }
+      ]
+    }
+  }
+}
+
